@@ -1,0 +1,33 @@
+form {
+  label {
+    margin-right: 15px;
+  }
+
+  input {
+    margin-right: 10px;
+    padding: 5px 20px;
+  }
+
+}
+
+.btn {
+  padding: 5px;
+}
+
+.btnAdd {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.btnDelete {
+  text-align: end !important;
+}
+
+.form {
+  text-align: end;
+  margin-bottom: 5px;
+
+  span {
+    margin-right: 10px;
+  }
+}
